@@ -27,5 +27,4 @@
     - [ ]  
 
 ## 테스트
-![스크린샷 2022-01-13 오후 11 40 36](https://user-images.githubusercontent.com/42988976/149355866-085ecaf9-1850-418b-b9bb-89a2f1664e29.png)
-![스크린샷 2022-01-13 오후 11 39 14](https://user-images.githubusercontent.com/42988976/149355924-f91c03d4-9472-40d9-ac60-106c36446f2e.png)
+![image](https://user-images.githubusercontent.com/42988976/149356204-2d9c1902-1db9-4166-ba33-1004cbc72e5a.png)
