@@ -27,7 +27,5 @@
     - [ ]  
 
 ## 테스트
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d78e7d5-6d17-4326-bcb1-2582bb0b680b/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ffc7fb8-ccf9-42e3-819a-56317cb3f39d/Untitled.png)
+![스크린샷 2022-01-13 오후 11 40 36](https://user-images.githubusercontent.com/42988976/149355866-085ecaf9-1850-418b-b9bb-89a2f1664e29.png)
+![스크린샷 2022-01-13 오후 11 39 14](https://user-images.githubusercontent.com/42988976/149355924-f91c03d4-9472-40d9-ac60-106c36446f2e.png)
