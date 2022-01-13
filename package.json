@@ -1,0 +1,21 @@
+{
+  "name": "auto-mailer",
+  "version": "1.0.0",
+  "description": "auto mailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "auto-mail"
+  ],
+  "author": "tnsska2",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.2"
+  }
+}
